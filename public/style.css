@@ -1,9 +1,19 @@
 body {
     background-color: powderblue;
+
 }
 h1 {
-    color: blue;
+    color: #c5e0a1;
+    font-family: "Bookman";
+    font-style: italic;
 }
 p {
-    color: red;
+    color: #c5e0a1;
 }
+
+.background{
+    max-width: 90%;
+    max-height: 90%;
+    display: block;
+    margin: auto;
+  }
